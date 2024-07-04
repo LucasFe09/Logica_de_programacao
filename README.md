@@ -24,3 +24,18 @@ Crie uma mensagem que informa o usuário sobre o saldo da conta, usando uma temp
 ## Desafio 06
 
 Peça ao usuário para inserir seu nome usando prompt. Em seguida, mostre um alerta de boas-vindas usando esse nome.
+
+## Desafio 07
+
+Crie um contador que comece em 1 e vá até 10 usando um loop while. Mostre cada número.
+
+## Desafio 08
+
+Crie um contador que comece em 10 e vá até 0 usando um loop while. Mostre cada número.
+
+## Desafio 09
+
+Crie um programa de contagem regressiva. Peça um número e conte deste número até 0, usando um loop while no console do navegador.
+
+## Desafio 10
+
