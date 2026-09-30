@@ -5,7 +5,7 @@ Livro interativo em português com 10 capítulos, revisões de múltipla escolha
 ## Comece em 3 minutos
 
 1. Baixe a branch `formacao-code-codevibe` deste repositório (Code → Download ZIP) e extraia o ZIP em uma pasta **fora do ZeloPDV**.
-2. Abra a pasta `formacao-code-codevibe` no VS Code: **Arquivo → Abrir Pasta**.
+2. Abra a pasta `formacao` dentro do ZIP extraído no VS Code: **Arquivo → Abrir Pasta**.
 3. Abra `index.html` no navegador com dois cliques. É um livro local: não precisa de servidor, login ou dependências.
 4. Leia um capítulo, responda à revisão na própria página e resolva a função correspondente em `exercicios.js`.
 5. No terminal do VS Code, rode `node avaliar.cjs treino` para conferir os exercícios com retorno imediato.
